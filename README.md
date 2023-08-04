@@ -7,5 +7,7 @@ Some facts about me:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=pauljohanneskraft&hide_title=true&show_icons=true&hide_border=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pauljohanneskraft&hide_border=true&theme=dark&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauljohanneskraft&hide_border=true&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pauljohanneskraft&hide_title=true&show_icons=true&hide_border=true&theme=dark" />
+</div>
