@@ -1,6 +1,6 @@
 ### Hey, Paul here! 👋
 
-👨🏼‍💻 Software Engineer for [QuickBird](https://github.com/QuickBirdEng) and [Stanford Biodesign Digital Health](https://github.com/StanfordBDHG)
+👨🏼‍💻 Software Engineer for [QuickBird](https://github.com/QuickBirdEng) and [Stanford University](https://github.com/SchmiedmayerLab)
 
 🌱 Constantly learning, developing, trying out new things and finding better ways to solve problems
 
